@@ -1,0 +1,27 @@
+.body{
+    background-color: pink;
+    /* width: 100vw;
+    height: 100vh; */
+    text-align: center;
+
+}
+
+.simon{
+    background-color: plum;
+    color:white;
+    height: 100px;
+    width: 200px;
+    font-size:xx-large;
+    border: none;
+}
+
+
+.nelson{
+    background-color: cornflowerblue;
+    color:white;
+    height: 100px;
+    width: 200px;
+    font-size:xx-large;
+    border: none;
+
+}
